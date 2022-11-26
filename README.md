@@ -2,19 +2,17 @@
 </h1>
 <h3 align="center">A self-taught Full Stack Developer based on Prishtina
 </h3>
-- 🌱 I’m currently learning **ReactJS**
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
-- 📫 How to reach me **rion.mehmeti09@gmail.co,**
+- 📫 Reach me rion.mehmeti09@gmail.com
 <h3 align="left">Connect with me:
 </h3>
 <p align="left">
-  <a href="https://twitter.com/r1oxy" target="blank">
+  <a href="https://twitter.com/r1oxyy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r1oxy" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rionmehmeti_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rionmehmeti_" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/r1oxy" target="blank">
+  <a href="https://discordapp.com/users/905509756494577685" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r1oxy" height="30" width="40" />
   </a>
 </p>
